@@ -1,4 +1,4 @@
-namespace Common;
+namespace Byte.Sized.Monkeys.Common;
 
 public record MayanCalendarChallengeDto
 {

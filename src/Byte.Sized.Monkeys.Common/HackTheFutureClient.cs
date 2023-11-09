@@ -1,11 +1,11 @@
 using System.Net.Http.Headers;
 
-namespace Common;
+namespace Byte.Sized.Monkeys.Common;
 
 public class HackTheFutureClient : HttpClient
 {
     public HackTheFutureClient()
-    { 
+    {
         BaseAddress = new Uri("https://app-involved-htf-api.azurewebsites.net");
     }
 
