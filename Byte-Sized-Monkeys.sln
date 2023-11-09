@@ -5,7 +5,7 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Byte-Sized-Monkeys.Common", "src\Common\Byte-Sized-Monkeys.Common.csproj", "{397AD7F8-042A-495B-B1DB-4B6A6B3857FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Byte-Sized-Monkeys-Pad-A.Core", "Byte-Sized-Monkeys-Pad-A.Core\Byte-Sized-Monkeys-Pad-A.Core.csproj", "{8B7FDF54-FD02-417A-B59F-9FDA2C93D3DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Byte-Sized-Monkeys-Pad-A.Core", "Byte-Sized-Monkeys-Pad-A.Core\Byte-Sized-Monkeys-Pad-A.Core.csproj", "{8B7FDF54-FD02-417A-B59F-9FDA2C93D3DF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
