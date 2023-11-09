@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Byte.Sized.Monkeys.Common\Byte.Sized.Monkeys.Common.csproj" />
+    <ProjectReference Include="..\Byte.Sized.Monkeys.Pad.A.Core\Byte.Sized.Monkeys.Pad.A.Core.csproj" />
   </ItemGroup>
 
 </Project>
