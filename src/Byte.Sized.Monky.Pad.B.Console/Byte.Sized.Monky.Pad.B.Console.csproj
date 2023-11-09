@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Byte.Sized.Monkeys.Common\Byte.Sized.Monkeys.Common.csproj" />
+    <ProjectReference Include="..\Byte.Sized.Monkeys.Pad.B.Core\Byte.Sized.Monkeys.Pad.B.Core.csproj" />
+  </ItemGroup>
+
+</Project>
