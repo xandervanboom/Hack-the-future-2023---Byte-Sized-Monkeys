@@ -7,5 +7,4 @@ public class Animal
     public int AgeInDays { get; set; }
     public int WeightInGrams { get; set; }
     public int HeightInCm { get; set; }
-
 }
